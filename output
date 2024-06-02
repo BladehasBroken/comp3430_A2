@@ -1,0 +1,46 @@
+Please enter the numbers(press ctrl + d to end input):
+start time is 1717358168461
+The time add task 0 is 10
+the current task 0's start time is 10, the current task is 20
+task 0 start on 10
+The time add task 1 is 20
+Task 0 finished on time 30
+Signal...
+Signal, Task 0 finished on time 30
+the current task 1's start time is 20, the current task is 10
+task 1 start on 30
+The time add task 2 is 30
+Task 1 finished on time 40
+the current task 2's start time is 30, the current task is 1
+task 2 start on 40
+Task 2 finished on time 41
+The time add task 3 is 41
+the current task 3's start time is 40, the current task is 1000
+task 3 start on 41
+The time add task 4 is 50
+The time add task 5 is 100
+The time add task 6 is 200
+The time add task 7 is 300
+The time add task 8 is 400
+The time add task 9 is 500
+Task 3 finished on time 1041
+the current task 4's start time is 50, the current task is 5
+task 4 start on 1041
+Task 4 finished on time 1046
+the current task 5's start time is 100, the current task is 10
+task 5 start on 1046
+Task 5 finished on time 1056
+the current task 6's start time is 200, the current task is 10
+task 6 start on 1056
+Task 6 finished on time 1066
+the current task 7's start time is 300, the current task is 10
+task 7 start on 1066
+Task 7 finished on time 1076
+the current task 8's start time is 400, the current task is 10
+task 8 start on 1076
+Task 8 finished on time 1086
+the current task 9's start time is 500, the current task is 10
+task 9 start on 1086
+Task 9 finished on time 1096
+The queue is empty
+time slice is 20, detail is 0
